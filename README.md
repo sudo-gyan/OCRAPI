@@ -28,3 +28,6 @@ I have used pytesseract as its a Python Wrapper on Tesseract OCR by Google. As T
 - Type `pip3 install -r requirements.txt`
 - Now deploy by typing `uvicorn main:app --port 5000`
 - Now the API should be live at `http://localhost:5000`
+
+## Screenshots
+![Working Sample Doc 1](https://raw.githubusercontent.com/sudo-gyan/OCRAPI/master/sample.jpg)
